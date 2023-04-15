@@ -1,0 +1,25 @@
+.MessengerChat{
+	height: 70vh;
+	min-width: 100%;
+	/* min-height: 100%; */
+	border-bottom: 1px solid #dfdfdf;
+	overflow-y: auto;
+}
+
+.MessengerChat h2{
+	padding: 10px 15px;
+	text-align: right;
+}
+.answer{
+	text-align: left!important;
+}
+.answer span{
+	border-radius: 20px 20px 20px 0!important;
+	background-color: #dfdfdf;
+}
+.MessengerChat h2 span{
+	display: inline-block;
+	padding: 10px 15px;
+	border: 1px solid #dfdfdf;
+	border-radius: 20px 20px 0 20px;
+}
